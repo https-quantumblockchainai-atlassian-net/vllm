@@ -4,3 +4,4 @@
 # Dependencies for x86_64 CPUs
 torch == 2.4.0+cpu; platform_machine != "ppc64le"
 torchvision; platform_machine != "ppc64le"   # required for the image processor of phi3v, this must be updated alongside torch
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
