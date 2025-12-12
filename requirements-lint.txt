@@ -12,3 +12,4 @@ mypy==1.11.1
 types-PyYAML
 types-requests
 types-setuptools
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
