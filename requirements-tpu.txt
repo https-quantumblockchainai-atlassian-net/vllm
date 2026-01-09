@@ -5,3 +5,4 @@
 # Currently, the TPU backend uses a nightly version of PyTorch XLA.
 # You can install the dependencies in Dockerfile.tpu.
 ray[default]
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
