@@ -32,3 +32,6 @@ aiohttp
 # quantization
 bitsandbytes>=0.44.0
 buildkite-test-collector==0.1.8
+filelock>=3.20.3 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
