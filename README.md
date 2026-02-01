@@ -29,6 +29,8 @@ Easy, fast, and cheap LLM serving for everyone
 
 ---
 ## About
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fvllm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fvllm?ref=badge_shield)
+
 vLLM is a fast and easy-to-use library for LLM inference and serving.
 
 vLLM is fast with:
@@ -129,3 +131,7 @@ If you use vLLM for your research, please cite our [paper](https://arxiv.org/abs
 * For discussing with fellow users, please use Discord.
 * For security disclosures, please use Github's security advisory feature.
 * For collaborations and partnerships, please contact us at vllm-questions AT lists.berkeley.edu.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fvllm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fvllm?ref=badge_large)
